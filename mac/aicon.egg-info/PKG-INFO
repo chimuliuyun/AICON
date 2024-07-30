@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: aicon
+Version: 2.0.1
+Summary: This is the aicon module.
+Home-page: https://github.com/Baijianlu/mDCThermalC
+Author: Tao Fan
+Author-email: Tao.Fan@skoltech.ru
+Provides: aicon
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pymatgen
